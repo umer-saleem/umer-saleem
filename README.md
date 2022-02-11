@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing a
 - 🌱 I’m currently pursuing MS Computer Science and Engineering from University of Oulu.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to contact me: [Send me an email](umersaleem64200@hotmail.com)
+- 📫 How to contact me:<a href = "mailto: umersaleem64200@hotmail.com">Send me an email.</a>
 
 <!---
 umer-saleem/umer-saleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
